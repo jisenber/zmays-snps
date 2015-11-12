@@ -8,6 +8,6 @@ We have 3 files:
 
 Track all the changes n shit that go on here okay? Deal.
 
-Love,
 Jim
 This is the first change to README.txt
+This change was made on November 11, 2015
